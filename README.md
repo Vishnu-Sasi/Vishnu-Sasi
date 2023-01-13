@@ -24,7 +24,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-sasi&show_icons=true&locale=en" alt="vishnu-sasi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-sasi&" alt="vishnu-sasi" /></p>
 
