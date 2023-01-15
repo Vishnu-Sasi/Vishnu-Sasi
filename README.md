@@ -24,5 +24,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-sasi&" alt="vishnu-sasi" /></p>
+
 
