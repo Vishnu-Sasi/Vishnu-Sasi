@@ -1,18 +1,18 @@
 [![MasterHead](https://user-images.githubusercontent.com/109810844/196542733-7f3ee26b-2480-4701-b9ea-02fa88a49e89.png)](https://github.com/Vishnu-Sasi)
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">A full Stack Developer from India,Kerala</h3>
+<h3 align="center">A Nodejs Developer from India,Kerala</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-sasi&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-sasi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack-Development**
+- 🌱 I’m currently learning **NodeJs-Development**
 
-- 💬 Ask me about **HTML,CSS,JS REACT etc...**
+- 💬 Ask me about **Nodejs,mongoDb,PostgresSql etc...**
 
 - 📫 How to reach me **vishnumkuttiady982@gmail.com**
 
-- ⚡ Fun fact **I Am From A Complete Non-Tech Background**
+- ⚡ Fun fact **I am a Hypnotist too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
