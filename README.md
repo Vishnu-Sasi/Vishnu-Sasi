@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109810844/196542733-7f3ee26b-2480-4701-b9ea-02fa88a49e89.png)](https://github.com/Vishnu-Sasi)
+
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A Nodejs Developer from India,Kerala</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
